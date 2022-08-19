@@ -1,4 +1,4 @@
-### Hi there👋 I am Yashwardhann Kumar! 
+### Hi there👋 I am Yashwardhann Kumar
 
 - 🔭 I’m currently working on Predictive Market Making 
 - 🌱 I’m currently learning Kernel Development
