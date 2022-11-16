@@ -3,5 +3,5 @@
 - 🧑🏽‍💻 Software Engineer at JP Morgan Chase & Co. 
 - 🔭 Currently working on personal project on Predictive Market Making 
 - 🌱 Currently learning Kernel Development
-- 👯 I’m looking to collaborate on Anything!
+- 👯 I’m looking to collaborate on Numerical and Scientific Computing!
 - 📫 How to reach me: yash20008@gmail.com
