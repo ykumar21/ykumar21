@@ -1,5 +1,5 @@
-### Hi there👋 
-I am Yashwardhann Kumar
+### Hi there! I am Yashwardhann Kumar
+
 - 🎓 CS & Math Undergraduate at University of Hong Kong
 - 🧑🏽‍💻 Software Engineer at JP Morgan Chase & Co. 
 - 🔭 Currently working on personal project on Predictive Market Making 
